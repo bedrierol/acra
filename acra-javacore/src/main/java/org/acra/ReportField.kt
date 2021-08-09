@@ -234,5 +234,8 @@ enum class ReportField {
     /**
      * Retrieves the user IP address(es).
      */
-    USER_IP
+    USER_IP, 
+	HOST,
+	LEVEL,
+	MESSAGE
 }
